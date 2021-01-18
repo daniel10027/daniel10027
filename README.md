@@ -79,18 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 </details>
 
 ---
-
-## Check my blogs
-
-<details open> 
- <summary><b>📑 My latest Medium articles</b>:</summary>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
-
-</details>
-
 ---
 
-<p align = "center"><a href="https://www.buymeacoffee.com/pr2tik1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 100px !important;" ></a>
+<p align = "center"><a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 100px !important;" ></a>
 </p>
