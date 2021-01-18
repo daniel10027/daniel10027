@@ -5,7 +5,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms, web mobile and Desktop programming.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
-- 🌐 Visit my [porfolio website](https//daniel-guedegbe.herokuapp.com) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://daniel-guedegbe.herokuapp.com) for complete background and contact.
 
 ---
 
