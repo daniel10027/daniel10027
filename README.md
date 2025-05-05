@@ -4,7 +4,7 @@
 
 ## 👋 Salut, moi c’est Daniel Guedegbe !
 
-🎓 Docteur en Intelligence Computationnelle (PhD en cours), double diplômé en Big Data & Software Engineering, certifié IBM/Microsoft/Axelos.  
+🎓 Double diplômé en Big Data & Software Engineering, certifié IBM/Microsoft/Axelos.  
 🧠 Passionné par l’innovation technologique, la digitalisation, l’IA, la cybersécurité et le développement de solutions numériques utiles.
 
 👨🏾‍💻 Actuellement Directeur des Systèmes d’Information à l’IIPEA (Institut International Polytechnique des Élites d’Abidjan) où je pilote la transformation digitale.  
