@@ -153,7 +153,7 @@
 
 <p align="center">
   <a href="mailto:danielguedegbe10027@gmail.com"><img height="36" src="https://img.shields.io/badge/Proposition-Envoyez%20un%20email-00A6CE?logo=minutemailer&logoColor=white"/></a>
-  <a href="https://cal.com/](https://cal.com/jean-marie-daniel-vianney-guedegbe-qfjxgu/30min" target="_blank"><img height="36" src="https://img.shields.io/badge/Planifier%20un%20call-30%20min-000?logo=googlecalendar&logoColor=white"/></a>
+  <a href="https://cal.com/jean-marie-daniel-vianney-guedegbe-qfjxgu/30min" target="_blank"><img height="36" src="https://img.shields.io/badge/Planifier%20un%20call-30%20min-000?logo=googlecalendar&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/daniel10027" target="_blank"><img height="36" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95%EF%B8%8F-FFDD00?logo=buymeacoffee&logoColor=000"/></a>
 </p>
 
