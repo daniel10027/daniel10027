@@ -22,7 +22,7 @@
 ## 🧭 À propos
 
 - 👨🏾‍💻 **Développeur Full Stack** (Python & JavaScript) – +5 ans d’expérience
-- 🧱 Spécialisé en **Django/DRF**, **FastAPI**, **Next.js**, **Flutter**, **PostgreSQL**
+- 🧱 Spécialisé en **Django/DRF**, **FastAPI**,**Flask**, **Next.js**, **Flutter**,**Angular**, **PostgreSQL**
 - ⚙️ Asynchronisme & planification : **Celery**, **Tasks**, **ETL light**
 - ☁️ Déploiement & Ops : **Docker**, **docker-compose**, **Linux**, **DigitalOcean**, **Heroku**
 - 🔌 Intégrations : **MQTT**, **WebSockets**, **Firebase (Push, Auth)**, **JWT**, APIs tierces
@@ -37,7 +37,7 @@
 ## 🛠️ Stack & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,next,react,flutter,dart,postgres,mysql,mongodb,redis,docker,linux,git,github,gitlab,postman,regex,webpack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,angular,js,ts,next,react,flutter,dart,postgres,mysql,mongodb,redis,docker,linux,git,github,gitlab,postman,regex,webpack" />
 </p>
 
 - **Langages** : Python, JavaScript/TypeScript, Dart  
