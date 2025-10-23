@@ -52,6 +52,17 @@
 
 ## 🧩 Expériences clés
 
+### **Orange Liberia — Développeur Python Senior**
+
+*(Janvier 2025 → Présent)*
+
+* Conception et maintien d’**API internes** et de **services distribués** en **Python/Django**
+* Développement de **microservices RESTful** intégrés au SI d’entreprise *(facturation, monitoring, supervision)*
+* Mise en place d’un **pipeline de traitement de données temps réel** avec **Kafka**, **Celery** et **Redis**
+* Optimisation des performances et supervision des bases **PostgreSQL** et **ElasticSearch**
+* Déploiement en environnement **Docker / Kubernetes**, intégration continue **GitLab CI/CD**
+* Participation à la stratégie de **sécurité**, **scalabilité** et **résilience** des plateformes internes
+
 ### ILLIGO — Back-end Python/Django (06/2025 →)
 - Backend **modulaire** en **Clean Architecture** (Django/DRF)
 - Intégration **IoT** (stations, véhicules, badges, chargeurs) via **MQTT/REST/WebSocket**
