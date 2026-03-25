@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00A6CE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Daniel+Guedegbe+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Python+%26+JS;Django+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Clean+Architecture+%7C+Cloud+%7C+CI%2FCD;I+love+building+useful+solutions+for+Africa" />
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/USERNAME.svg)](https://user-badge.committers.top/ivory_coast/daniel10027)
+
 <!-- Wandering pythons (extra animations) -->
 
 <p align="center">
